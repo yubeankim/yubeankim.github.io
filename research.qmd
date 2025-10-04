@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+#### A Replication Study on Student Expectations on CS Tutors: Understanding Roles and Labors of Tutors
+Yubin Kim, Edward X. Chen, Sofia Caston, Jeffrey Fairbanks, Sophie Russ, Jett Spitzer, Duong Hoang Thuy Vu, James Andro-Vasko, Wolfgang Bein, Daniel Frishberg, Stephen Tsung-Han Sher and Michael Shindler<br>
+The 57th Technical Symposium on Computer Science Education (SIGCSE TS 2026)
+
+---
+
+#### [Investigating the Capabilities of Generative AI in Solving Data Structures, Algorithms, and Computability Problems](https://dl.acm.org/doi/10.1145/3641554.3701946)
+Nero Li, Shahar Broner, Yubin Kim, Katrina Mizuo, Elijah Sauder, Claire To, Albert Wang, and Ofek Gila, Michael Shindler<br>
+The 56th Technical Symposium on Computer Science Education (SIGCSE TS 2025)
